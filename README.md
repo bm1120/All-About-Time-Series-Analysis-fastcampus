@@ -1,3 +1,4 @@
+# fastcampus 시계열 강의 정리용
 ## ✔️ Fast Campus Online All-in-one Package
 
 > 파이썬을 활용한 시계열 데이터 분석 강의자료 공간입니다.
